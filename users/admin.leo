@@ -39,6 +39,7 @@
 <v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
 <v t="amd.20160329125251.1"><vh>@clean template-20160329.md</vh></v>
+<v t="leo.20160401112739.1"><vh>@clean admin-20160401.md</vh></v>
 </v>
 </v>
 </vnodes>
@@ -81,5 +82,22 @@ g.es("admin pelican 執行完畢")
 <t tx="leo.20160401104925.1"></t>
 <t tx="leo.20160401104933.1"></t>
 <t tx="leo.20160401104943.1"></t>
+<t tx="leo.20160401112739.1">@language md
+Title: admin-收集有來上課同學的 blog 連結
+Category: 規劃
+Tags: CADLAB, Ｍanual, MCAD
+Author: kmol
+@others
+有來上課同學, 請將已經建好的 Pelican 靜態網誌連結, 留在以下 Disqus 留言區.
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+之後, 我們將會設法整合 Pelican 網誌與 Wordpress 網誌.
+
+Wordpress - &gt; 動態網誌
+
+Pelican -&gt; 靜態網誌
+
+CMSimply -&gt; 資料收集內容管理系統</t>
 </tnodes>
 </leo_file>

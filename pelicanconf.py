@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = '999'
-SITENAME = '999 的網誌'
-SITEURL = 'http://999.github.io/blog/'
+AUTHOR = 'cmsblog-2016'
+SITENAME = 'cmsblog-2016 網誌'
+SITEURL = 'http://cad-lab.github.io/cmsblog/'
 
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False

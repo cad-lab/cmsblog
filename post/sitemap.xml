@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://cad-lab.github.io/manual/post/</loc>
-<lastmod>2016-04-01T11:24:56-00:00</lastmod>
+<lastmod>2016-04-01T11:33:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/manual/post/archives.html</loc>
-<lastmod>2016-04-01T11:24:56-00:00</lastmod>
+<lastmod>2016-04-01T11:33:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/manual/post/tags.html</loc>
-<lastmod>2016-04-01T11:24:56-00:00</lastmod>
+<lastmod>2016-04-01T11:33:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/manual/post/categories.html</loc>
-<lastmod>2016-04-01T11:24:56-00:00</lastmod>
+<lastmod>2016-04-01T11:33:32-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://cad-lab.github.io/manual/post/admin-shou-ji-you-lai-shang-ke-tong-xue-de-blog-lian-jie.html</loc>
+<lastmod>2016-04-01T11:33:24+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -40,35 +47,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://cad-lab.github.io/manual/post/category/gui-hua.html</loc>
-<lastmod>2016-04-01T11:15:32+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://cad-lab.github.io/manual/post/tag/mcad.html</loc>
-<lastmod>2016-04-01T11:15:32+08:06</lastmod>
+<lastmod>2016-04-01T11:33:24+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/manual/post/tag/manual.html</loc>
-<lastmod>2016-04-01T11:15:32+08:06</lastmod>
+<lastmod>2016-04-01T11:33:24+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://cad-lab.github.io/manual/post/tag/mcad.html</loc>
+<lastmod>2016-04-01T11:33:24+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/manual/post/tag/cadlab.html</loc>
-<lastmod>2016-04-01T11:15:32+08:06</lastmod>
+<lastmod>2016-04-01T11:33:24+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/manual/post/author/kmol.html</loc>
-<lastmod>2016-04-01T11:15:32+08:06</lastmod>
+<lastmod>2016-04-01T11:33:24+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
