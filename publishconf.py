@@ -33,7 +33,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
-DISQUS_SITENAME = "cmsblog-2016"
+DISQUS_SITENAME = "2016springwcm"
 #GOOGLE_ANALYTICS = ""
 
 # 設定網誌以 md 檔案建立的 file system date 為準, 無需自行設定
