@@ -296,7 +296,7 @@ cmsblog-2016 網誌            </a>
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2016-05-06T10:34:01.020010+08:00"> 週五 06 五月 2016</time>
+        <i class="fa fa-calendar"></i><time datetime="2016-05-06T03:34:01.020010+08:00"> 週五 06 五月 2016</time>
     </span>
             <span class="label label-default">By</span>
             <a href="http://cad-lab.github.io/cmsblog/post/author/kmol.html"><i class="fa fa-user"></i> kmol</a>
@@ -316,13 +316,16 @@ cmsblog-2016 網誌            </a>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.4.1/snap.svg-min.js"></script>
 
 <script>
+//<!--
 window.onload=function(){
 brython(1);
 }
+//-->
 </script>
 
 <p><svg width="800" height="600" viewBox="0 0 800 600" id="svgout"></svg></p>
 <script type="text/python">
+#<!--
 from javascript import JSConstructor
 from browser import alert
 from browser import window, document
@@ -373,10 +376,12 @@ c4 = s.circle(25,25,10).attr({ 'fill': "silver", 'stroke': "black", 'strokeWidth
 g4 = s.group(r4,c4).attr({ 'id': 'g4' });
 g4.appendTo( g3 )
 g4.animate( { 'transform' : 'r360,25,25' },4000)
+#-->
 </script>
 
 <p><svg width="800" height="700" viewBox="0 0 800 700" id="svgout1"></svg></p>
 <script type="text/python">
+#<!--
 from javascript import JSConstructor
 from browser import alert
 from browser import window, document
@@ -424,10 +429,12 @@ document['rect'].bind('click', rtoyellow)
 document['circle'].bind('click', ctogreen)
 document['tux'].bind('mouseover', hoverover)
 document['tux'].bind('mouseleave', hoverout)
+#-->
 </script>
 
 <p><svg width="800" height="700" viewBox="0 0 800 700" id="svgout2"></svg></p>
 <script type="text/python">
+#<!--
 from javascript import JSConstructor
 from browser import alert
 from browser import window, document
@@ -460,7 +467,7 @@ def onSVGLoaded(data):
     g.text(300,100, '將滑鼠指向企鵝')
 
 # 利用 window.Snap.load 載入 svg 檔案
-tux = window.Snap.load("images/wcm_w11.svg", onSVGLoaded)
+tux = window.Snap.load("http://cad-lab.github.io/cmsblog/post/images/wcm_w11.svg", onSVGLoaded)
 g.transform('t180,20')
 
 # 與視窗事件對應的函式
@@ -475,6 +482,7 @@ document['rect'].bind('click', rtoyellow)
 document['circle'].bind('click', ctogreen)
 document['tux2'].bind('mouseover', hoverover)
 document['tux2'].bind('mouseleave', hoverout)
+#-->
 </script>
             </div>
             <!-- /.entry-content -->

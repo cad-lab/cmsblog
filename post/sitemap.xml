@@ -5,91 +5,91 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://cad-lab.github.io/cmsblog/post/</loc>
-<lastmod>2016-05-06T11:02:35-00:00</lastmod>
+<lastmod>2016-05-06T04:47:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/cmsblog/post/archives.html</loc>
-<lastmod>2016-05-06T11:02:35-00:00</lastmod>
+<lastmod>2016-05-06T04:47:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/cmsblog/post/tags.html</loc>
-<lastmod>2016-05-06T11:02:35-00:00</lastmod>
+<lastmod>2016-05-06T04:47:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/cmsblog/post/categories.html</loc>
-<lastmod>2016-05-06T11:02:35-00:00</lastmod>
+<lastmod>2016-05-06T04:47:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/cmsblog/post/admin-snapsvg-hui-tu-fan-li.html</loc>
-<lastmod>2016-05-06T10:34:01+08:00</lastmod>
+<lastmod>2016-05-06T03:34:01+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/cmsblog/post/template-qi-dong-dian-nao-fu-zhu-ji-jie-she-ji-shou-ce-bian-ji.html</loc>
-<lastmod>2016-05-06T10:28:29+08:00</lastmod>
+<lastmod>2016-05-06T03:28:29+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/cmsblog/post/admin-shou-ji-you-lai-shang-ke-tong-xue-de-blog-lian-jie.html</loc>
-<lastmod>2016-05-06T10:28:29+08:00</lastmod>
+<lastmod>2016-05-06T03:28:29+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/cmsblog/post/category/gui-hua.html</loc>
-<lastmod>2016-05-06T10:34:01+08:06</lastmod>
+<lastmod>2016-05-06T03:34:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/cmsblog/post/tag/manual.html</loc>
-<lastmod>2016-05-06T10:28:29+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://cad-lab.github.io/cmsblog/post/tag/mcad.html</loc>
-<lastmod>2016-05-06T10:28:29+08:06</lastmod>
+<lastmod>2016-05-06T03:28:29+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/cmsblog/post/tag/snapsvg.html</loc>
-<lastmod>2016-05-06T10:34:01+08:06</lastmod>
+<lastmod>2016-05-06T03:34:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/cmsblog/post/tag/cadlab.html</loc>
-<lastmod>2016-05-06T10:28:29+08:06</lastmod>
+<lastmod>2016-05-06T03:28:29+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://cad-lab.github.io/cmsblog/post/tag/mcad.html</loc>
+<lastmod>2016-05-06T03:28:29+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/cmsblog/post/author/kmol.html</loc>
-<lastmod>2016-05-06T10:34:01+08:06</lastmod>
+<lastmod>2016-05-06T03:34:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
