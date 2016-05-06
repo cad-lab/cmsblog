@@ -375,6 +375,8 @@ Author: kmol
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
+假如要將 script 程式碼放入 Wordpress 內文, 可以利用 Javascript 或 python 的註解符號 (Javascript 為兩個斜線, Python 則為井字號), 在程式碼前後放入 html 註解的標註符號, 以避免 Wordpress 將程式法當作內文處理.
+
 &lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
 &lt;script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.4.1/snap.svg-min.js"&gt;&lt;/script&gt;
  
